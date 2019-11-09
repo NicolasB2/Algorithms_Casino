@@ -1,3 +1,3 @@
-# API_Casino
+# Algorithms_Casino
 
 *Poker game developed in java*
